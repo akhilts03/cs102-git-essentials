@@ -4,3 +4,7 @@ git add [file]: stages the file into the local repository.
 git commit -m "a message to describe change": makes the change to the repository permanent 
 git push: updates the server repository with the changes made in the local repository. (pushes the change from local to server)
 git pull: reverse of git push. updates local repository with the server repository.
+
+summary of lecture:
+In todays lecture we revised the commands taught in the previous class. These commands can be used to manage the repositories in both our machines and in the server. We learnt how to create a repository in github, download/clone the repository using the command "git clone", make changes to thenow local repository, stage the changes using "git add", commit the changes using "git commit", and finally upload the changes back to the main branchon the server using "git push".Also, we learned how to update a local repository to the sever's version using "git pull".
+
