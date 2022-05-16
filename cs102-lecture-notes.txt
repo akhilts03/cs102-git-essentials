@@ -1,0 +1,6 @@
+Some basic git commands:
+git status: shows the current status of the repository
+git add [file]: stages the file into the local repository.
+git commit -m "a message to describe change": makes the change to the repository permanent 
+git push: updates the server repository with the changes made in the local repository. (pushes the change from local to server)
+git pull: reverse of git push. updates local repository with the server repository.
